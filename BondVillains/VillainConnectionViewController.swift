@@ -9,7 +9,7 @@
 import Foundation
 import UIKit
 
-class VillainConnectionViewController: UICollectionViewController {
+class VillainCollectionViewController: UICollectionViewController {
     
     // Get ahold of some villains, for the table
     // This is an array of Villain instances.
